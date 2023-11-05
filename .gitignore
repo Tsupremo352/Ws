@@ -1,0 +1,5 @@
+/obj
+/bin
+.env
+/Logs/*
+!/Logs/.gitkeep
