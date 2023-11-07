@@ -3,3 +3,5 @@
 .env
 /Logs/*
 !/Logs/.gitkeep
+.vs/
+*.sln
